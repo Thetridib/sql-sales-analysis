@@ -4,12 +4,6 @@ A SQL project analyzing retail customer behavior, product performance, and sales
 
 Project Files
 
-data/ → CSV datasets (customers, products, orders)
-
-sql/ → Table creation & analysis queries
-
-README.md
-
 Key SQL Skills
 
 JOINs (INNER, LEFT)
